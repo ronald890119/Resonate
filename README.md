@@ -1,2 +1,8 @@
 # Resonate
-Resonate internship assessment
+
+This repo is for Resonate internship assessment
+
+## How to run
+1. Open terminal and navigate to the  _**frontend**_  folder and run  `npm i`  to install all dependencies.
+2. Run `npm start` to render the frontend.
+3. The browser will open localhost with 3000 port automatically.
