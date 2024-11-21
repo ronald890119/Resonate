@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+label {
+  font-size: 4rem;
+}
