@@ -61,7 +61,7 @@ function HomePage()  {
 								<ListItemText primary={`Website: ${value.website}`} />
 							</ListItem>
 							<ListItem>
-								<ListItemText primary={`Company: ${value.company}`} />
+								<ListItemText primary={`Company: ${value.company.name}`} />
 							</ListItem>
 						</List>
 						</Collapse>
